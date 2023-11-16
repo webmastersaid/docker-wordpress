@@ -1,2 +1,2 @@
 # docker-wordpress
-Doker + Wordpress
+Docker + Wordpress
